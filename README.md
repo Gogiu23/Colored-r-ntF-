@@ -1,5 +1,8 @@
 # Colored PRINTF || SHELL
 
+<img width="466" alt="Screenshot 2022-06-16 at 04 24 51" src="https://user-images.githubusercontent.com/102987251/173980365-cc922114-b3a8-43a4-8001-cefde16980e0.png">
+
+<img width="742" alt="Screenshot 2022-06-16 at 04 26 07" src="https://user-images.githubusercontent.com/102987251/173980143-b47e37fc-0c70-44d1-a499-0934ee6a4a7a.png">
 
 
 # Reset 👩🏻‍🔬
